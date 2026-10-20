@@ -5,7 +5,7 @@ Projet académique réalisé en équipe : comparaison de modèles de deep learni
 ## Équipe
 
 - [Fatima IBAARAREN](https://github.com/IBAARARENfatima-source)
-- [ayanasser53](https://github.com/ayanasser53)
+- [Aya Nasser (@ayanasser53)](https://github.com/ayanasser53)
 
 ## Contenu
 
