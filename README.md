@@ -2,6 +2,11 @@
 
 Projet académique réalisé en équipe : comparaison de modèles de deep learning pour classer des ECG à 12 dérivations dans cinq grandes catégories diagnostiques.
 
+## Équipe
+
+- [Fatima IBAARAREN](https://github.com/IBAARARENfatima-source)
+- [ayanasser53](https://github.com/ayanasser53)
+
 ## Contenu
 
 - `classification-ecg-ptb-xl.ipynb` : chargement des données, filtrage et normalisation, entraînement et évaluation des modèles CNN 1D, BiLSTM, CNN-BiLSTM et ResNet1D.
