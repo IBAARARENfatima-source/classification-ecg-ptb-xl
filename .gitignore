@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+data/
+*.keras
+*.h5
+*.pkl
+*.npy
